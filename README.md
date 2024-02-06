@@ -14,7 +14,7 @@ This README file provides an overview of a Business Intelligence (BI) project pl
 #### Project Objectives
 The primary objectives of this BI project are as follows:
 
-- Obesity Classification: Establish obesity levels based on individuals' eating habits and physical condition.
+- Obesity Classification: Establish obesity levels based on individuals eating habits and physical condition.
 - Data Exploration: Conduct exploratory data analysis (EDA) to gain insights into the distribution, patterns, and relationships within the dataset.
 - Visualization: Implement a visualization tool to present the insights.
 
